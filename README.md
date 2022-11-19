@@ -1,6 +1,5 @@
 # Meme.rip 
 
-I mostly like to make scripts for lego game! (Roblox)
 
 **Skills**
 
