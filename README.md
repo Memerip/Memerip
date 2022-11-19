@@ -1,8 +1,3 @@
-<style>
- h1{
-  font-weight: bold;
-  }
-</style>
 <body>
-<h1>Meme.rip is on top</h1>
+<h1><b>Meme.rip is on top</b></h1>
 </body>
