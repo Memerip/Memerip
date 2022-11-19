@@ -8,7 +8,7 @@
 
 **Contact**
 
-Discord: Meme.rip#6927
-Telegram MemeRip
+- Discord: Meme.rip#6927
+- Telegram: MemeRip
 
 <a href="https://discord.com/invite/CKQuGPqx8M">Discord Server</a>
