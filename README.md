@@ -2,7 +2,7 @@
 
 **Skills**
 
-- HTML, CSS, LUA, C++
+- HTML, CSS, PYTHON, LUA
 - Web Hacking
 
 **Contact**
