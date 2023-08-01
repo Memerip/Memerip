@@ -2,11 +2,11 @@
 
 **Skills**
 
-- HTML, CSS, PYTHON, LUA
+- HTML, JS, CSS, PYTHON, LUA (not really)
 
 **Contact**
 
-- Discord: Meme.rip#6927
+- Discord: @memerip
 - Telegram: MemeRip
 
 <a href="https://discord.com/invite/CKQuGPqx8M">Discord Server</a>
